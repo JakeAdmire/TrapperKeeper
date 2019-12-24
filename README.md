@@ -5,7 +5,7 @@
   <a href="https://github.com/JakeAdmire/TrapperKeeper">
     <img src="https://user-images.githubusercontent.com/44077214/71378023-7a3d4280-2583-11ea-93c7-607842c622e2.png" alt="Logo" width="300" height="80">
   </a>
-  <h1 align="center">TrapperKeeper API</h1>
+  <h1 align="center">TrapperKeeper</h1>
   <p align="center">
     Take the corkboard wherever you go with this warm & familiar note taking app!
     <br />
