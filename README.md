@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/JakeAdmire/TrapperKeeper">
-    <img src="https://user-images.githubusercontent.com/44077214/71378023-7a3d4280-2583-11ea-93c7-607842c622e2.png" alt="Logo" width="300" height="100">
+    <img src="https://user-images.githubusercontent.com/44077214/71378023-7a3d4280-2583-11ea-93c7-607842c622e2.png" alt="Logo" width="300" height="80">
   </a>
   <h1 align="center">TrapperKeeper API</h1>
   <p align="center">
@@ -49,7 +49,7 @@
 - ReactJS
 - Jest & Enzyme
 
-#### Acknowledgements
+#### Acknowledgements:
 - React Router
 - Redux
 - Redux Thunk
@@ -95,14 +95,16 @@ cd TrapperKeeper-API && npm install
 
 ## Contributors
 
-Click [here](https://github.com/JakeAdmire/Ghibli-Tracker/graphs/contributors) to view a graph of the contributions to this project.
+Click [here](https://github.com/JakeAdmire/TrapperKeeper/graphs/contributors) to view a graph of the contributions to this project.
 
 - [Jake Admire](https://github.com/jakeadmire)
-- [Kim Myers](https://github.com/kimmichurri)
+- [Michael Krog](https://github.com/MRKrog/)
+- [David Cisneros](https://github.com/DevelopingDavid)
+- [Jessica Hansen](https://github.com/jessicalyn)
 
 ## Assignment Details
 
-The intended assignment was to practice building a RESTful API from the ground up. 
+The intended assignment was to practice building a **RESTful API** from the ground up. 
 
 ---
 
